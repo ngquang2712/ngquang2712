@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">👋 Xin chào, mình là Quang</h1>
 
-<!--
-**ngquang2712/ngquang2712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Lập Trình Viên</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://facebook.com/yourfacebook">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook">
+  </a>
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/Website-00C7FF?style=for-the-badge&logo=google-chrome">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Về mình
+
+```js
+const quang = {
+  role: "Embedded Linux Developer",
+  location: "Vietnam",
+  learning: ["C", "Linux", "Git", "STM32", "Embedded Linux"],
+  hobbies: ["Coding", "Learning new tech"],
+  motto: "Code, learn, repeat 🚀"
+};
