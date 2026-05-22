@@ -6,8 +6,8 @@
   <a href="https://www.facebook.com/nnq05">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook">
   </a>
-  <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/Website-00C7FF?style=for-the-badge&logo=google-chrome">
+  <a href="https://discord.com/channels/@me">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
 
