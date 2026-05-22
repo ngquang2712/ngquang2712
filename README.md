@@ -42,13 +42,17 @@ const quang = {
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Ngăn xếp công nghệ
 
 <div align="center">
 
-### 💻 Languages
+### 💻 Ngôn ngữ Lập Trình
+<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts&theme=dark" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,bash" />
+</div>
 
 ### 🐧 Embedded / Linux
 
@@ -76,7 +80,7 @@ const quang = {
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Biểu đồ đóng góp
 
 <div align="center">
 
@@ -100,28 +104,28 @@ const quang = {
 
 <div align="center">
 
-![Discord](https://img.shields.io/badge/DISCORD-QUANG-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)
+![Discord](https://img.shields.io/badge/DISCORD-ngquang05-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)
 
 <table>
 <tr>
 <td width="160" align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120"/>
+<img src="https://cdn.discordapp.com/attachments/1191302736143188008/1445630011276267520/FB_IMG_1763599562644.jpg?ex=6a112a5d&is=6a0fd8dd&hm=127fcc14ffe35cf50ea8933dde9cb876b9ea42c3c5fae2f70a47164435c199e8&" width="120"/>
 <br/>
 <br/>
 <img src="https://img.shields.io/badge/🟢_Online-00CC00?style=flat-square"/>
 </td>
 <td width="420">
 
-### ⚡ Quang
+### <h3>🎯 ngquang05_ <code>#Sờ Núp7634</code></h3>
 
-![Embedded](https://img.shields.io/badge/Embedded-Linux-blue?style=flat-square)
-![C](https://img.shields.io/badge/C-Programming-00599C?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-Enthusiast-FCC624?style=flat-square)
+<img src="https://img.shields.io/badge/👑_Owner-ff1493?style=for-the-badge&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/🏠_HypeSquad-5865F2?style=for-the-badge&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/⚡_Active_Dev-5865F2?style=for-the-badge&logoColor=white" height="22"/>
 
-📝 **Giới thiệu về tôi**
-💻 Embedded Linux Learner
-📚 Sinh viên công nghệ
-⚡ Đam mê lập trình low-level & Linux
+📝 **Giới thiệu về tôi** <br/>
+💻 Embedded Linux Learner <br/>
+📚 Sinh viên công nghệ <br/>
+⚡ Đam mê lập trình low-level & Linux <br/>
 🚀 Xây dựng project với C & Embedded Systems
 
 </td>
@@ -152,11 +156,11 @@ const quang = {
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍  Rắn đóng góp
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ngquang2712/ngquang2712/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
 
 </div>
 
