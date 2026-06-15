@@ -8,7 +8,6 @@
 <br/>
 
 ![Followers](https://img.shields.io/github/followers/ngquang2712?style=for-the-badge\&color=00D9FF)
-![Stars](https://img.shields.io/github/stars/ngquang2712?style=for-the-badge\&color=FFD700)
 ![Profile Views](https://komarev.com/ghpvc/?username=ngquang2712\&label=PROFILE%20VIEWS\&style=for-the-badge\&color=00D9FF)
 
 </div>
